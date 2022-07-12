@@ -1,0 +1,10 @@
+F:\___JOHN_CoS\John_CoS\CastleOfSecrets\Plugins\TextureResizeSC\Intermediate\Build\Win64\UE4Editor\Development\TextureResizeSC\Definitions.TextureResizeSC.h
+F:/___JOHN_CoS/John_CoS/CastleOfSecrets/Plugins/TextureResizeSC/Source/TextureResizeSC/Private/TextureFunctionsSC.cpp
+F:\___JOHN_CoS\John_CoS\CastleOfSecrets\Plugins\TextureResizeSC\Source\TextureResizeSC\Public\TextureFunctionsSC.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime/Engine/Classes/Engine/TextureRenderTarget2D.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTarget.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureRenderTarget2D.generated.h
+F:\___JOHN_CoS\John_CoS\CastleOfSecrets\Plugins\TextureResizeSC\Intermediate\Build\Win64\UE4Editor\Inc\TextureResizeSC\TextureFunctionsSC.generated.h
+F:/___JOHN_CoS/John_CoS/CastleOfSecrets/Plugins/TextureResizeSC/Source/TextureResizeSC/Private/TextureResizeSC.cpp
+F:\___JOHN_CoS\John_CoS\CastleOfSecrets\Plugins\TextureResizeSC\Source\TextureResizeSC\Public\TextureResizeSC.h

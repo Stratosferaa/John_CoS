@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TextureResizeSC.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\___JOHN_CoS\John_CoS\CastleOfSecrets\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\___JOHN_CoS\John_CoS\CastleOfSecrets\Plugins\TextureResizeSC\Intermediate\Build\Win64\UE4Editor\Development\TextureResizeSC\Module.TextureResizeSC.cpp.obj"
+"F:\___JOHN_CoS\John_CoS\CastleOfSecrets\Plugins\TextureResizeSC\Intermediate\Build\Win64\UE4Editor\Development\TextureResizeSC\Module.TextureResizeSC.gen.cpp.obj"
+"F:\___JOHN_CoS\John_CoS\CastleOfSecrets\Plugins\TextureResizeSC\Intermediate\Build\Win64\UE4Editor\Development\TextureResizeSC\Default.rc2.res"
+/OUT:"F:\___JOHN_CoS\John_CoS\CastleOfSecrets\Plugins\TextureResizeSC\Intermediate\Build\Win64\UE4Editor\Development\TextureResizeSC\UE4Editor-TextureResizeSC.lib"

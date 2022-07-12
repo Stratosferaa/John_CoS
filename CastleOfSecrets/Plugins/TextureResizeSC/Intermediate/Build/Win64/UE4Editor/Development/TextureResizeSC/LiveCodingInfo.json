@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TextureResizeSC.cpp.obj": [
+			"TextureFunctionsSC.cpp.obj",
+			"TextureResizeSC.cpp.obj"
+		],
+		"Module.TextureResizeSC.gen.cpp.obj": [
+			"TextureFunctionsSC.gen.cpp.obj",
+			"TextureResizeSC.init.gen.cpp.obj"
+		]
+	}
+}

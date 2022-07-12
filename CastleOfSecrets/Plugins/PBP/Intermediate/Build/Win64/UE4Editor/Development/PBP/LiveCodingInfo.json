@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PBP.cpp.obj": [
+			"PBP.cpp.obj",
+			"PBPCommands.cpp.obj",
+			"PBPStyle.cpp.obj"
+		]
+	}
+}
